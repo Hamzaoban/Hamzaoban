@@ -6,4 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzall&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-
+![Snake animation](https://github.com/Hamzall/Hamzall/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/Hamzall">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Hamzall.Hamzall&style=for-the-badge">
+<a>
