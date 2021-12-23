@@ -6,4 +6,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzall&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzall)](https://github.com/Hamzall/github-readme-stats)
+
