@@ -18,7 +18,7 @@
 ##
   
 ![Snake animation](https://github.com/Hamzaoban/Hamzaoban/blob/output/github-contribution-grid-snake.svg)
-  <a href="https://github.com/Hamzall">
+  <a href="https://github.com/Hamzaoban">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Hamzaoban.Hamzaoban&style=for-the-badge">
 <a>
 
